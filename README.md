@@ -20,7 +20,7 @@
 ![Screenshot](pa3.png)
 
 * Responsive design:
-(Θα προστεθεί gif)
+![Screenshot](pa4.gif)
 
 ### Δεύτερο Παραδοτέο
 * Εμφάνιση μόνο ενός γραφήματος κάθε φορά:
